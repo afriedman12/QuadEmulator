@@ -1,0 +1,9 @@
+C:\Users\alexi\source\repos\CopterEmulator\CopterEmulator\obj\Debug\CopterEmulator.csprojResolveAssemblyReference.cache
+C:\Users\alexi\source\repos\CopterEmulator\CopterEmulator\obj\Debug\CopterEmulator.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\CopterEmulator\CopterEmulator\bin\Debug\CopterEmulator.exe.config
+C:\Users\alexi\source\repos\CopterEmulator\CopterEmulator\bin\Debug\CopterEmulator.exe
+C:\Users\alexi\source\repos\CopterEmulator\CopterEmulator\bin\Debug\CopterEmulator.pdb
+C:\Users\alexi\source\repos\CopterEmulator\CopterEmulator\obj\Debug\CopterEmulator.exe
+C:\Users\alexi\source\repos\CopterEmulator\CopterEmulator\obj\Debug\CopterEmulator.pdb
+C:\Users\alexi\source\repos\CopterEmulator\CopterEmulator\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\alexi\source\repos\CopterEmulator\CopterEmulator\obj\Debug\CopterEmulator.csproj.CopyComplete
